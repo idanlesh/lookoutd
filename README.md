@@ -9,3 +9,10 @@ How to run the project:
 3. Run lookoutd:
 	a. ./lookoutd migrate --db postgres://postgres:postgres@il-linubvm-205:15432/lookout?sslmode=disable
 	b. ./lookoutd serve --db=postgres://postgres:postgres@il-linubvm-205:15432/lookout?sslmode=disable
+
+Based on below sites:
+https://github.com/src-d/lookout
+https://github.com/src-d/lookout/blob/master/docs/how-to-run.md
+https://github.com/src-d/lookout/blob/master/docs/configuration.md
+https://github.com/bblfsh/sonar-checks
+https://github.com/src-d/lookout-sonarcheck-analyzer
