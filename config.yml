@@ -28,7 +28,7 @@ repositories:
   - url: https://github.com/idanlesh/hackathon
     client:
       user: idanlesh
-      token: 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
+      token: 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
       #      user: x0119950
       #      token: OTg0NTI5NTc4MDE0OsVPZztlVcaGfTRI9CcFQQdBPS9/
       minInterval: 1m
