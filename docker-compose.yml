@@ -8,7 +8,7 @@ services:
       - postgres
     environment:
       GITHUB_USER: "idanlesh"
-      GITHUB_TOKEN: "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"
+      GITHUB_TOKEN: "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"
     ports:
       - "10301:10301"
     entrypoint: ["/bin/sh"]
